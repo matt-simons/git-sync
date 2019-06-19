@@ -8,6 +8,3 @@ title = "first"
 
 This is the first post. 
 ddddd
-
-
-[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/git-sync/demo/blog/content/post/first.md?pixel)]()
